@@ -1,0 +1,13 @@
+#card{
+    max-width: 18rem;
+    display: inline-block;
+    margin-right: 3rem;
+    left: 7%;
+    top: 2rem;
+    width: 100%;
+    border-radius:15px;
+}
+#head{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
